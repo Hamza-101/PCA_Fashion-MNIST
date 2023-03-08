@@ -1,1 +1,13 @@
 
+In this homework, we target to classify different classes using PCA. You can use any dataset of your choice and performs following steps to perform PCA.
+
+1) Compute the mean of train data using python.
+2) Mean subtract the data using python.
+3) Find the covariance matrix using python.
+4) Compute eigenvalues and eigenvectors of the covariance matrix using python.
+5) Compute the principal components and find how much information is captured by each principal component.
+6) From the test data randomly select any data point and tell whether they belong to
+the same class or not using the nearest neighbor in a low dimensional space.
+
+7) Report precision, recall, accuracy, F1 score, confusion matrix, ROC Curve for each class
+and for all classes combined ROC curve. Also, report Area-Under-the-Curve.
